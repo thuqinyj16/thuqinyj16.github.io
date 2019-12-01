@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Yujia Qin, I'm currently an undergraduate at Department of Electronic Engineering, Tsinghua University, Beijing, China. At Tsinghua, I'm fortunately advised by Prof. Zhiyuan Liu. I was a summer intern at USC advised by Prof. Xiang Ren. My research interest is natural language processing, data mining, social computing and machine learning. I'm actively looking for Ph.D. positions in these fields this year!!!
+  Hi there! My name is Yujia Qin, I'm currently an senior undergraduate at Department of Electronic Engineering, Tsinghua University, Beijing, China. At Tsinghua, I'm fortunately advised by Prof. Zhiyuan Liu. I was a summer intern at USC advised by Prof. Xiang Ren. My research interest lies in natural language processing, data mining, social computing and machine learning. I'm actively looking for Ph.D. positions in these fields this year!!!
