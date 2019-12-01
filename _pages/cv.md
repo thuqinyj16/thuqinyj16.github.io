@@ -13,7 +13,7 @@ Education
 ======
 * B.E. Electronic Engineering, Tsinghua University, 2020 (expected)
 
-Work experience
+Research and Work Experience
 ======
 * Summer 2019: Research Assistant
   * University of Southrn California
@@ -30,6 +30,10 @@ Work experience
   * NLP applications in electronic health records classification
   * Supervisor: Prof. Ji Wu
   
+* 2018.7 - 2018.9 : Summer Intern
+  * Pacific Century CyberWorks (Hong Kong)
+  * Assisted in researching and deploying Google AI applications in phone services
+  
 Skills
 ======
 * Programming: Proficient in Assembly Language, C/C++, Python, Matlab, Java, R, LATEX, SQL and GDB
@@ -39,3 +43,4 @@ Skills
 Service and leadership
 ======
 * Reviewer for NLPCC 2019
+* Gave a talk at the 1st HowNet Seminar, CCL, 2019
