@@ -3,7 +3,7 @@ title: "Learning to Annotate: Modularizing Data Augmentation for Text Classifier
 collection: publications
 permalink: /publication/iclr_paper.pdf
 date: 2019/09/23
-venue: 'ICLR 2020'
+
 paperurl: 'https://arxiv.org/pdf/1911.01352.pdf'
 ---
 
