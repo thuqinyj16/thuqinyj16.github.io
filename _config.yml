@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my house!"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yujia Qin"
 description              : &description "Undergraduate at EE, Tsinghua, Beijing, China"
