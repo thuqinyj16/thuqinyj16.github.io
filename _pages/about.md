@@ -20,18 +20,18 @@ Research and Work Experience
 ======
 While deep neural networks have achieved impressive performance, there are still three main challenges: (1) domain knowledge integration, (2) data insufficiency, and (3) model interpretability. Overly replying on computing power and human-created labels is not a good trend for deep learning. I believe knowledge-guided NLP is a solution to these challenges.
 
-* Executing Data Augmentation with Natural Language Explanations (News: paper accepted by ICLR 2020!)
+* 🌟Executing Data Augmentation with Natural Language Explanations (News: paper accepted by ICLR 2020!)
   * Summer 2019, INK lab, University of Southrn California
   * Supervisor: Prof. Xiang Ren
   * See a introduction [video](https://drive.google.com/open?id=1AuGsNbjHkNiQ-nySy5oP8EQafa8Dzgnk)
 
+* 🌟Enhancing Recurrent Neural Networks with Sememes (Work under review by IEEE TASLP)
+  * 2018.10 - 2019.2, NLP group, Tsinghua University
+  * Supervisor: Prof. Zhiyuan Liu
+
 * Ongoing project: Leveraging Natural Language Explanations for General Question Answering (targeting at ICML 2020)
   * 2019.11 - present, INK lab, University of Southrn California
   * Supervisor: Prof. Xiang Ren
-
-* Enhancing Recurrent Neural Networks with Sememes (Work under review by IEEE TASLP)
-  * 2018.10 - 2019.2, NLP group, Tsinghua University
-  * Supervisor: Prof. Zhiyuan Liu
   
 * Incorporating HowNet into Word Embeddings to Improve Word Representation Learning
   * 2018.5 - 2018.10, NLP group, Tsinghua University
