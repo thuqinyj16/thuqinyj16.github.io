@@ -17,6 +17,7 @@ Education
 
 Research and Work Experience
 ======
+opfkowpefk
 * Executing Data Augmentation with Natural Language Explanations (News: paper accepted by ICLR 2020!)
   * Summer 2019, INK lab, University of Southrn California
   * Supervisor: Prof. Xiang Ren
@@ -38,9 +39,8 @@ Research and Work Experience
   * 2019.9 - present, Tsinghua University
   * Supervisor: Prof. Ji Wu
   
-* 2018.7 - 2018.9 : Summer Intern
-  * Pacific Century CyberWorks (Hong Kong)
-  * Assisted in researching and deploying Google AI applications in phone services
+* Assisted in researching and deploying Google AI applications in phone services
+  * 2018.7 - 2018.9, Pacific Century CyberWorks, Hong Kong
   
 Skills
 ======
