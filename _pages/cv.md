@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.E. Electronic Engineering, Tsinghua University, 2020 (expected)
+* B.E. Electronic Information Science and Technology, Tsinghua University, 2020 (expected)
 
 Research and Work Experience
 ======
 * Summer 2019: Research Assistant
   * University of Southrn California
-  * Executing Data Augmentation with Natural Language Explanations
+  * Executing Data Augmentation with Natural Language Explanations (News: paper accepted by ICLR 2020!)
   * Supervisor: Prof. Xiang Ren
 
 * 2018.5 - present : Research Assistant
