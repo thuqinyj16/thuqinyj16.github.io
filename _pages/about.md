@@ -14,10 +14,12 @@ redirect_from:
 Education
 ======
 * B.E. Electronic Information Science and Technology, Tsinghua University, 2020 (expected)
+* Minor: Center for Statistics, Tsinghua University
 
 Research and Work Experience
 ======
-opfkowpefk
+While deep neural networks have achieved impressive performance, there are still three main challenges: (1) domain knowledge integration, (2) data insufficiency, and (3) model interpretability. I focused on (1) at THU (supervised by Prof. Zhiyuan Liu), (2) \& (3) at USC (supervised by Prof. Xiang Ren).
+
 * Executing Data Augmentation with Natural Language Explanations (News: paper accepted by ICLR 2020!)
   * Summer 2019, INK lab, University of Southrn California
   * Supervisor: Prof. Xiang Ren
