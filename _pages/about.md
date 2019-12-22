@@ -5,32 +5,37 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.html 
 ---
 
-  Hi there, welcome!
-  My name is Yujia Qin, I'm currently a senior undergraduate at Department of Electronic Engineering, Tsinghua University, Beijing, China. At Tsinghua, I'm fortunately advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). Last summer, I worked as a summer intern at USC advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/). 
+  Hi there, welcome! My name is Yujia Qin, I'm currently a senior undergraduate at Department of Electronic Engineering, Tsinghua University, Beijing, China. At Tsinghua, I'm fortunately advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/index.html). Last summer, I worked as a summer intern at USC advised by [Prof. Xiang Ren](http://ink-ron.usc.edu/xiangren/). 
   My research interest lies in natural language processing, data mining, social computing and machine learning.
   
-  Education
+Education
 ======
 * B.E. Electronic Information Science and Technology, Tsinghua University, 2020 (expected)
 
 Research and Work Experience
 ======
-* Summer 2019: Research Assistant
-  * University of Southrn California
-  * Executing Data Augmentation with Natural Language Explanations (News: paper accepted by ICLR 2020!)
+* Executing Data Augmentation with Natural Language Explanations (News: paper accepted by ICLR 2020!)
+  * Summer 2019, INK lab, University of Southrn California
+  * Supervisor: Prof. Xiang Ren
+  * See a introduction [video](https://drive.google.com/open?id=1AuGsNbjHkNiQ-nySy5oP8EQafa8Dzgnk)
+
+* Ongoing project: Leveraging Natural Language Explanations for General Question Answering (targeting at ICML 2020)
+  * 2019.11 - present, INK lab, University of Southrn California
   * Supervisor: Prof. Xiang Ren
 
-* 2018.5 - present : Research Assistant
-  * Tsinghua University
-  * Enhancing Recurrent Neural Networks with Sememes
+* Enhancing Recurrent Neural Networks with Sememes
+  * 2018.10 - 2019.2, NLP group, Tsinghua University
   * Supervisor: Prof. Zhiyuan Liu
   
-* 2019.9 - present : Research Assistant
-  * Tsinghua University
-  * NLP applications in electronic health records classification
+* Incorporating HowNet into Word Embeddings to Improve Word Representation Learning
+  * 2018.5 - 2018.10, NLP group, Tsinghua University
+  * Supervisor: Prof. Zhiyuan Liu
+  
+* NLP applications in electronic health records classification
+  * 2019.9 - present, Tsinghua University
   * Supervisor: Prof. Ji Wu
   
 * 2018.7 - 2018.9 : Summer Intern
