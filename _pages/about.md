@@ -52,11 +52,11 @@ Skills
   
 Service and leadership
 ======
-* Reviewer for NLPCC 2019
+* Assistant reviewer for NLPCC 2019
 * Gave a talk at the 1st HowNet Seminar, CCL, 2019
 
 Misc.
 ======
 * Sport: I like playing basketball and badminton. I'm a huge fan of [Russell Westbrook](https://twitter.com/russwest44)
 * Music: I studied accordion for 8 years, though I don't play it now :( I'm a huge fan of [Higher Brothers](https://twitter.com/HigherBrothers) and [Rich Brian](https://twitter.com/richbrian)
-* Game: I liked League of Legends though I don't play well. There are several heros I'm skilled in: Kassadin, Veigar and Teemo
+* Game: I like League of Legends though I don't play well. There are several heros I'm skilled in: Kassadin, Veigar and Teemo
