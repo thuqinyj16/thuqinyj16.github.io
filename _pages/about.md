@@ -13,7 +13,7 @@ redirect_from:
   
 Education
 ======
-* B.E. Electronic Information Science and Technology, Tsinghua University, 2020 (Admitted on basis of performance on national college admission exam (26/310, 000))
+* B.E. Electronic Information Science and Technology, Tsinghua University, 2020 (Admitted on basis of performance on national college admission exam (ranking 26/310, 000))
 * Minor: Center for Statistics, Tsinghua University
 
 Research and Work Experience
