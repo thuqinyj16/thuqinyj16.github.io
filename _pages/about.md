@@ -18,7 +18,7 @@ Education
 
 Research and Work Experience
 ======
-While deep neural networks have achieved impressive performance, there are still three main challenges: (1) domain knowledge integration, (2) data insufficiency, and (3) model interpretability. I focused on (1) at THU (supervised by Prof. Zhiyuan Liu), (2) \& (3) at USC (supervised by Prof. Xiang Ren).
+While deep neural networks have achieved impressive performance, there are still three main challenges: (1) domain knowledge integration, (2) data insufficiency, and (3) model interpretability. Overly replying on computing power and human-created labels is not a good trend for deep learning. I believe knowledge-guided NLP is a solution to these challenges.
 
 * Executing Data Augmentation with Natural Language Explanations (News: paper accepted by ICLR 2020!)
   * Summer 2019, INK lab, University of Southrn California
@@ -29,7 +29,7 @@ While deep neural networks have achieved impressive performance, there are still
   * 2019.11 - present, INK lab, University of Southrn California
   * Supervisor: Prof. Xiang Ren
 
-* Enhancing Recurrent Neural Networks with Sememes
+* Enhancing Recurrent Neural Networks with Sememes (Work under review by IEEE TASLP)
   * 2018.10 - 2019.2, NLP group, Tsinghua University
   * Supervisor: Prof. Zhiyuan Liu
   
