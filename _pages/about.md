@@ -54,6 +54,7 @@ Service and leadership
 ======
 * Assistant reviewer for NLPCC 2019
 * Gave a talk at the 1st HowNet Seminar, CCL, 2019
+* I participated in a three-week joint teaching support activity of Tsinghua in rural villages of China, it's a very unforgettable experience for me. (Huguan, Shanxi, July 2017)
 
 Misc.
 ======
