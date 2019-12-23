@@ -13,12 +13,12 @@ redirect_from:
   
 Education
 ======
-* B.E. Electronic Information Science and Technology, Tsinghua University, 2020 (Admitted on basis of performance on national college admission exam (ranking 26/310, 000))
+* B.E. Electronic Information Science and Technology, Tsinghua University, 2020 (expected)
 * Minor: Center for Statistics, Tsinghua University
 
 Research and Work Experience
 ======
-While deep neural networks have achieved impressive performance, there are still three main challenges: (1) domain knowledge integration, (2) data insufficiency, and (3) model interpretability. Overly replying on computing power and human-created labels is not a good trend for deep learning. I believe knowledge-guided NLP is a solution to these challenges.
+What is the future of deep learning? While deep neural networks have achieved impressive performance, there are still three main challenges: (1) domain knowledge integration, (2) data insufficiency, and (3) model interpretability. Overly replying on computing power and human-created labels is not a good trend for deep learning. I believe knowledge-guided NLP is a solution to these challenges.
 
 * 🌟Executing Data Augmentation with Natural Language Explanations (News: paper accepted by ICLR 2020!)
   * Summer 2019, INK lab, University of Southrn California
@@ -60,4 +60,4 @@ Misc.
 ======
 * Sport: I like playing basketball and badminton. I'm a huge fan of [Russell Westbrook](https://twitter.com/russwest44)
 * Music: I studied accordion for 8 years, though I don't play it now :( I'm a huge fan of [Higher Brothers](https://twitter.com/HigherBrothers) and [Rich Brian](https://twitter.com/richbrian)
-* Game: I like League of Legends though I don't play well. There are several heros I'm skilled in: Kassadin, Veigar and Teemo
+* Game: I like League of Legends though I don't play well. Still, there are several heros I'm skilled in: Kassadin, Veigar and Teemo
